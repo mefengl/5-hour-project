@@ -3,3 +3,5 @@
 youtube subtitle, bare minimum
 
 aitalk, warmup
+
+dont forget
